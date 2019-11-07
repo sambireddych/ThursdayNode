@@ -1,0 +1,15 @@
+{
+  "name": "nodeinclass",
+  "version": "1.0.0",
+  "description": "creating node examples",
+  "main": "startMeUp.js",
+  "scripts": {
+    "test": "node startMeUp.js",
+    "start": "node startMeUp"
+  },
+  "author": "Sambi",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
